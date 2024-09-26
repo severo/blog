@@ -1,5 +1,5 @@
 ---
-toc: false
+sidebar: false
 ---
 
 # Create a Discourse Dashboard
