@@ -4,9 +4,11 @@
 
 I also wanted to try deploying an [Observable Framework](https://observablehq.com/framework/) app directly [from a GitHub repository](https://observablehq.com/release-notes/2024-09-24-add-data-apps-from-github) to the [Observable Cloud](https://observablehq.com/release-notes/2024-09-10-observable-cloud).
 
-## Code: discourse-dashboard
+## Code
 
-So, I created a reusable app that provides a dashboard for any Discourse-based forum. The code is hosted on GitHub: https://github.com/severo/discourse-dashboard
+So, I created a reusable app that provides a dashboard for any Discourse-based forum. The code is hosted on GitHub: https://github.com/severo/discourse-dashboard.
+
+Feel free to use it for your forum.
 
 By default, it generates a static dashboard for Observable's forum (https://talk.observablehq.com). You can see it at https://severo.observablehq.cloud/observable-forum-dashboard/.
 
