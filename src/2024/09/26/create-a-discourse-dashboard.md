@@ -1,3 +1,7 @@
+---
+toc: false
+---
+
 # Create a Discourse Dashboard
 
 [Discourse](https://discourse.org/) powers [many forums](https://discourse.org/customers) today, like [Docker](https://forums.docker.com/) or [Figma](https://forum.figma.com/). I've mostly contributed with questions and comments on two of them: [Observable](https://talk.observablehq.com/) and [Hugging Face](https://discuss.huggingface.co/). I wanted to understand more about their activity, and I knew from a [previous experiment](https://observablehq.com/@severo/top-posters-on-observablehq-forum) that the [Discourse API](https://docs.discourse.org/) was super easy to use. Add `.json` to any URL, and you get the data.
