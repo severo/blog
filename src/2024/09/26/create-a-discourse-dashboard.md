@@ -10,8 +10,8 @@ So, I created a reusable app that provides a dashboard for any Discourse-based f
 
 By default, it generates a static dashboard for Observable's forum (https://talk.observablehq.com). You can see it at https://severo.observablehq.cloud/observable-forum-dashboard/.
 
-![](./observable-1.png)
-![](./observable-2.png)
+<img style="max-width: 640px;" src="./observable-1.png" alt="Dashboard of the Observable forum" />
+<img style="max-width: 640px;" src="./observable-2.png" alt="Plot with the three users who had most accepted answers every year" />
 
 ## Run locally
 
@@ -37,7 +37,7 @@ DISCOURSE_URL=https://discuss.huggingface.co npm run dev
 
 You can see the dashboard for the Hugging Face forum at https://huggingface.co/spaces/severo/hf-forum-dashboard.
 
-![](./huggingface-1.png)
+<img style="max-width: 640px;" src="./huggingface-1.png" alt="Dashboard of the Hugging Face forum" />
 
 Note that it's deployed as a [static Hugging Face space](https://huggingface.co/docs/hub/spaces-sdks-static), and I had to use an intermediate [Docker space](https://huggingface.co/spaces/severo/build-hf-forum-dashboard) to gather the data, build and deploy the static site. I documented this technique in [Build static HTML spaces](https://huggingface.co/blog/severo/build-static-html-spaces).
 
