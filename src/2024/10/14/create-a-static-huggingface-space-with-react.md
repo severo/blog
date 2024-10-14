@@ -20,6 +20,12 @@ cd /tmp
 npm create vite@latest hello-react-app -- --template react-ts
 ```
 
+<div class="note">
+
+You can replace `react-ts` with any other template provided by Vite: `vanilla`, `vanilla-ts`, `vue`, `vue-ts`, `react`, `react-ts`, `react-swc`, `react-swc-ts`, `preact`, `preact-ts`, `lit`, `lit-ts`, `svelte`, `svelte-ts`, `solid`, `solid-ts`, `qwik`, `qwik-ts`.
+
+</div>
+
 Ensure it works:
 
 ```bash
