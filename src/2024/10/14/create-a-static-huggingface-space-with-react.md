@@ -11,6 +11,8 @@ In this tutorial, let's see how to:
 
 The code is  and the space is https://huggingface.co/spaces/severo/hello-react-app
 
+<img style="max-width: 640px;" src="./thumbnail.png" alt="Decoration image, with the title Deploy a static app to HF" />
+
 ## Create the React app
 
 In a local directory, run:
